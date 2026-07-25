@@ -15,6 +15,7 @@ I am a researcher in hydrology and hydrometeorology. I received my M.S. in Civil
 ## News
 
 - **[Jul. 2025]** Our paper on weighted loss functions for extreme rainfall nowcasting is published in *IEEE Transactions on Geoscience and Remote Sensing*.
+- **[May 2025]** I received the Excellent Paper Presentation Award at the *Korea Water Resources Association Conference* — for the third consecutive year (2023, 2024, and 2025).
 - **[Apr. 2025]** I presented our work on extreme rainfall nowcasting at the *EGU General Assembly 2025* in Vienna, Austria.
 
 {% include_relative _includes/publications.md %}
@@ -22,5 +23,5 @@ I am a researcher in hydrology and hydrometeorology. I received my M.S. in Civil
 ## Conference Presentations
 
 - **Hyojeong Choi**, Yongchan Kim, and Dongkyun Kim. "Improving Real-Time Nowcasting of Extreme Rainfall Using Weighted Loss Functions in Deep Learning Models." *Korea Water Resources Association Conference*, May 2025. (in Korean)
-- **Hyojeong Choi**, Yongchan Kim, and Dongkyun Kim. "Enhancing Extreme Rainfall Nowcasting with Weighted Loss Functions in Deep Learning Models." *EGU General Assembly 2025*, Vienna, Austria, Apr. 2025.
-- **Hyojeong Choi**, Yongchan Kim, Dongkyun Kim, and Huidae Cho. "Assessment of the Impact of Climate Change on Water Resources in the Paldang Dam Watershed Using an Integrated Method of LSTM and a Hydrologic Model." *Korea Water Resources Association Conference*, 2022.
+- **Hyojeong Choi**, Yongchan Kim, and Dongkyun Kim. "Enhancing Extreme Rainfall Nowcasting with Weighted Loss Functions in Deep Learning Models." *EGU General Assembly 2025*, Vienna, Austria, Apr. 2025. (Oral)
+- **Hyojeong Choi** and Dongkyun Kim. "A ConvLSTM-based Deep Learning Model with Grid-Weighting for Predicting Extreme Precipitation Events." *Korea Water Resources Association Conference*, 2023.

@@ -7,3 +7,8 @@ main:
     pdf: https://doi.org/10.1109/TGRS.2025.3592853
     image: ./assets/img/teaser_tgrs2025.gif
     notes: "Impact Factor: 9.4"
+
+  - title: "Rainfall Nowcasting with Deep Neural Networks: Trends and Strategies to Overcome Limitations"
+    authors: <strong>Hyojeong Choi</strong>, Yongchan Kim, Dongkyun Kim
+    conference: Journal of Korea Water Resources Association, vol. 57, no. S-1, pp. 1161–1175, 2024. (in Korean)
+    pdf: https://doi.org/10.3741/JKWRA.2024.57.S-1.1161
