@@ -10,7 +10,6 @@ I am a researcher in hydrology and hydrometeorology. I received my M.S. in Civil
 
 - **Extreme Rainfall & Urban Hydrometeorology:** urbanization effects on extreme precipitation, long-term gridded rainfall analysis (AORC)
 - **Deep Learning in Hydrology:** precipitation nowcasting, ConvLSTM, weighted loss functions for extreme events
-- **Climate Change & Water Resources:** hybrid LSTM–hydrologic modeling for watershed-scale impact assessment
 
 ## News
 
