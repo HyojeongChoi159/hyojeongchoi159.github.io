@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a researcher in hydrology and hydrometeorology. I received my M.S. in Civil and Environmental Engineering from Hongik University, Seoul, where I was advised by Prof. Dongkyun Kim. My research focuses on extreme rainfall — how to better predict it with deep learning, and how urbanization reshapes it. I am currently applying to Ph.D. programs in the United States.
+I am a researcher in hydrology and hydrometeorology. I received my M.S. in Civil and Environmental Engineering from Hongik University, Seoul, where I was advised by [Prof. Dongkyun Kim](https://sites.google.com/site/hihydrology/home). My research focuses on extreme rainfall — how to better predict it with deep learning, and how urbanization reshapes it. I am currently applying to Ph.D. programs in the United States.
 
 ## Research Interests
 
@@ -13,6 +13,7 @@ I am a researcher in hydrology and hydrometeorology. I received my M.S. in Civil
 
 ## News
 
+- **[Jun. 2026]** I am visiting the [TExUS Lab](https://texuslab.org/) at the University of Texas at Austin as a visiting researcher (Jun. 15 – Sep. 3, 2026), working with Prof. Dev Niyogi.
 - **[Jul. 2025]** Our paper on weighted loss functions for extreme rainfall nowcasting is published in *IEEE Transactions on Geoscience and Remote Sensing*.
 - **[May 2025]** I received the Excellent Paper Presentation Award at the *Korea Water Resources Association Conference* — for the third consecutive year (2023, 2024, and 2025).
 - **[Apr. 2025]** I presented our work on extreme rainfall nowcasting at the *EGU General Assembly 2025* in Vienna, Austria.
