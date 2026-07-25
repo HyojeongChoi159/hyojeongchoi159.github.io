@@ -23,5 +23,5 @@ I am a researcher in hydrology and hydrometeorology. I received my M.S. in Civil
 ## Conference Presentations
 
 - **Hyojeong Choi**, Yongchan Kim, and Dongkyun Kim. "Improving Real-Time Nowcasting of Extreme Rainfall Using Weighted Loss Functions in Deep Learning Models." *Korea Water Resources Association Conference*, May 2025. (in Korean)
-- **Hyojeong Choi**, Yongchan Kim, and Dongkyun Kim. "Enhancing Extreme Rainfall Nowcasting with Weighted Loss Functions in Deep Learning Models." *EGU General Assembly 2025*, Vienna, Austria, Apr. 2025. (Oral)
+- **Hyojeong Choi**, Yongchan Kim, and Dongkyun Kim. ["Enhancing Extreme Rainfall Nowcasting with Weighted Loss Functions in Deep Learning Models."](https://meetingorganizer.copernicus.org/EGU25/EGU25-19416.html) *EGU General Assembly 2025*, Vienna, Austria, Apr. 2025. (Oral)
 - **Hyojeong Choi** and Dongkyun Kim. "A ConvLSTM-based Deep Learning Model with Grid-Weighting for Predicting Extreme Precipitation Events." *Korea Water Resources Association Conference*, 2023.
