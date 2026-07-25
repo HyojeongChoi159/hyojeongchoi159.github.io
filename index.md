@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a researcher in hydrology and hydrometeorology. I received my M.S. in Civil and Environmental Engineering from Hongik University, Seoul, where I was advised by [Prof. Dongkyun Kim](https://sites.google.com/site/hihydrology/home). My research focuses on extreme rainfall — how to better predict it with deep learning, and how urbanization reshapes it. I am currently applying to Ph.D. programs in the United States.
+I am a researcher in hydrology and hydrometeorology. I received my M.S. in Civil Engineering from Hongik University, Seoul, where I was advised by [Prof. Dongkyun Kim](https://sites.google.com/site/hihydrology/home). My research focuses on extreme rainfall — how to better predict it with deep learning, and how urbanization reshapes it. I am currently applying to Ph.D. programs in the United States.
 
 ## Research Interests
 
