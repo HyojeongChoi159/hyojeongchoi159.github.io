@@ -89,6 +89,12 @@
           <i class="fab fa-x-twitter"></i>
         </a>
         {% endif %}
+
+        {% if site.email_link %}
+        <a style="margin: 0 0 0 0" href="mailto:{{ site.email_link }}">
+          <i class="fas fa-envelope" style="font-size:1.1rem"></i>
+        </a>
+        {% endif %}
         </div>
         <br>
 
