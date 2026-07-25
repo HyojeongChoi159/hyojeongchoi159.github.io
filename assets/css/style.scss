@@ -2,3 +2,16 @@
 ---
 
 @import "minimal-light";
+
+/* --- custom touches --- */
+section h2 {
+  padding-bottom: 6px;
+  background: linear-gradient(90deg, #043361 0 42px, #3eb7f0 42px 66px, transparent 66px);
+  background-repeat: no-repeat;
+  background-size: 100% 3px;
+  background-position: left bottom;
+}
+
+.image.avatar img {
+  box-shadow: 0 4px 14px rgba(4, 51, 97, 0.18);
+}
