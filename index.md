@@ -20,6 +20,21 @@ I am a researcher in hydrology and hydrometeorology. I received my M.S. in Civil
 - **[May 2024]** I received the Excellent Paper Presentation Award at the *2024 Korea Water Resources Association Conference*.
 - **[May 2023]** I received the Excellent Paper Presentation Award at the *2023 Korea Water Resources Association Conference*.
 
+<div style="display:flex; flex-wrap:wrap; gap:12px; margin:12px 0 4px;">
+  <div style="flex:1 1 180px; text-align:center;">
+    <a href="./assets/img/award_kwra2023.jpg" target="_blank"><img src="./assets/img/award_kwra2023.jpg" alt="2023 KWRA award ceremony" style="width:100%; border-radius:8px; box-shadow:2px 2px 6px rgba(0,0,0,0.25);"></a>
+    <small><b>2023</b> KWRA Conference</small>
+  </div>
+  <div style="flex:1 1 180px; text-align:center;">
+    <a href="./assets/img/award_kwra2024.jpg" target="_blank"><img src="./assets/img/award_kwra2024.jpg" alt="2024 KWRA award ceremony" style="width:100%; border-radius:8px; box-shadow:2px 2px 6px rgba(0,0,0,0.25);"></a>
+    <small><b>2024</b> KWRA Conference</small>
+  </div>
+  <div style="flex:1 1 180px; text-align:center;">
+    <a href="./assets/img/award_kwra2025.jpg" target="_blank"><img src="./assets/img/award_kwra2025.jpg" alt="2025 KWRA award ceremony" style="width:100%; border-radius:8px; box-shadow:2px 2px 6px rgba(0,0,0,0.25);"></a>
+    <small><b>2025</b> KWRA Conference</small>
+  </div>
+</div>
+
 {% include_relative _includes/publications.md %}
 
 ## Conference Presentations
