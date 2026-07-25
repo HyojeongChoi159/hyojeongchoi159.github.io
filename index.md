@@ -11,6 +11,8 @@ I am a researcher in hydrology and hydrometeorology. I received my M.S. in Civil
 - **Extreme Rainfall & Urban Hydrometeorology:** urbanization effects on extreme precipitation, long-term gridded rainfall analysis (AORC)
 - **Deep Learning in Hydrology:** precipitation nowcasting, ConvLSTM, weighted loss functions for extreme events
 
+{% include_relative _includes/publications.md %}
+
 ## News
 
 - **[Jun. 2026]** I am visiting the [TExUS Lab](https://texuslab.org/) at the University of Texas at Austin as a visiting researcher (Jun. 15 – Sep. 3, 2026), working with [Prof. Dev Niyogi](https://www.jsg.utexas.edu/researcher/dev_niyogi/).
@@ -34,8 +36,6 @@ I am a researcher in hydrology and hydrometeorology. I received my M.S. in Civil
     <small><b>2025</b> KWRA Conference</small>
   </div>
 </div>
-
-{% include_relative _includes/publications.md %}
 
 ## Conference Presentations
 
